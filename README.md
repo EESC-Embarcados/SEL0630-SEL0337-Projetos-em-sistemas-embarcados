@@ -5,6 +5,11 @@ Este repositório reúne exemplos de código, tutoriais e dicas voltadas ao dese
 Outros repositórios com conteúdos complementares, teóricos ou práticos, podem ser acessados na organização:
 🔗 [https://github.com/orgs/EESC-Embarcados/repositories](https://github.com/orgs/EESC-Embarcados/repositories)
 
+## Exemplos de repositórios e trabalhos finais da disciplina de Projetos em Sistemas Embarcados
+
+**Projeto de sensor de roubo de bicicleta com integração com email e uso de bluetooth**
+🔗 [https://github.com/ms-erik/SEL0337---Projetos-em-Sistemas-Embarcados](https://github.com/ms-erik/SEL0337---Projetos-em-Sistemas-Embarcados)
+
 ---
 
 ## Projetos de Descaracterização: "Além do Horizonte"
@@ -21,13 +26,13 @@ O principal foco até o momento tem sido a reconfiguração de aparelhos de tele
 
 ---
 
-## Como Participar
+### Como Participar
 
 Caso tenha interesse em contribuir com o projeto, entre em contato com o **Prof. Pedro Oliveira**. A participação é aberta e todos são bem-vindos!
 
 ---
 
-## Materiais e Tutoriais Recomendados
+### Materiais e Tutoriais Recomendados
 
 Abaixo, alguns tutoriais e repositórios úteis para quem deseja começar a trabalhar com descaracterização de TV Boxes:
 
